@@ -23,10 +23,10 @@ Ling Guo; Liqiang Xiao; Wenlan Wang; Jiachen Yin; Wanting Huang, The Effect of G
 
 
 ### RESEARCH EXPERIENCE
-<p><b>Global Value Chain Participation and Carbon Embodied in Exports: An Experiment from Forest Trade Shock </b></p>
-                                                                       Jun 2022 – Dec 2022
--<b>Member Advisor:</b> Dr. Guo Ling
--Research Content: This study explores the relationship between global value chain (GVC) participation and carbon emissions in forest product exports from 41 countries (2002-2014). Findings show that during the 2008 financial crisis, countries with larger GVC changes reduced more embodied carbon via decreasing export scale and capital investment. It also found that a decrease in skilled personnel growth can increase carbon emissions. Therefore, enhancing GVC technology with skilled forestry personnel could reduce the carbon footprint in exports. 
+<p><b>Global Value Chain Participation and Carbon Embodied in Exports: An Experiment from Forest Trade Shock </b>
+                                                                       Jun 2022 – Dec 2022</p>
+<p><b>Member Advisor:</b> Dr. Guo Ling</p>
+<p><b>Research Content</b>: This study explores the relationship between global value chain (GVC) participation and carbon emissions in forest product exports from 41 countries (2002-2014). Findings show that during the 2008 financial crisis, countries with larger GVC changes reduced more embodied carbon via decreasing export scale and capital investment. It also found that a decrease in skilled personnel growth can increase carbon emissions. Therefore, enhancing GVC technology with skilled forestry personnel could reduce the carbon footprint in exports. </p>
 -Responsibilities:
 Analysed forest product global value chain impacts on carbon emissions using economic models and statistical software
 Assembled and curated datasets for empirical modelling
