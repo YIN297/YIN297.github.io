@@ -27,11 +27,11 @@ Ling Guo; Liqiang Xiao; Wenlan Wang; Jiachen Yin; Wanting Huang, The Effect of G
                                                                        Jun 2022 – Dec 2022</p>
 <p><b>Member Advisor:</b> Dr. Guo Ling</p>
 <p><b>Research Content</b>: This study explores the relationship between global value chain (GVC) participation and carbon emissions in forest product exports from 41 countries (2002-2014). Findings show that during the 2008 financial crisis, countries with larger GVC changes reduced more embodied carbon via decreasing export scale and capital investment. It also found that a decrease in skilled personnel growth can increase carbon emissions. Therefore, enhancing GVC technology with skilled forestry personnel could reduce the carbon footprint in exports. </p>
--Responsibilities:
-Analysed forest product global value chain impacts on carbon emissions using economic models and statistical software
-Assembled and curated datasets for empirical modelling
-Executed Two-Stage Least Squares regression, parallel trend tests, placebo tests, and robustness tests using Stata
-Achievements: Awarded third prize for 2022 excellent paper from China Society of Forestry Economics
+<p><b>Responsibilities:</b></p>
+<p>Analysed forest product global value chain impacts on carbon emissions using economic models and statistical software</p>
+<p>Assembled and curated datasets for empirical modelling</p>
+<p>Executed Two-Stage Least Squares regression, parallel trend tests, placebo tests, and robustness tests using Stata</p>
+<p><b>Achievements</b></p>: Awarded third prize for 2022 excellent paper from China Society of Forestry Economics
 
 ### PROFESSIONAL EXPERIENCE
 Kaifeng Zhenhe Property Management Co., Ltd.                                              Henan, China 
